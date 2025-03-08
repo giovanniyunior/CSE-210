@@ -1,0 +1,15 @@
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/bin/Debug/net8.0/Exercise3
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/bin/Debug/net8.0/Exercise3.deps.json
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/bin/Debug/net8.0/Exercise3.runtimeconfig.json
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/bin/Debug/net8.0/Exercise3.dll
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/bin/Debug/net8.0/Exercise3.pdb
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/obj/Debug/net8.0/Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/obj/Debug/net8.0/Exercise3.AssemblyInfoInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/obj/Debug/net8.0/Exercise3.AssemblyInfo.cs
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/obj/Debug/net8.0/Exercise3.csproj.CoreCompileInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/obj/Debug/net8.0/Exercise3.sourcelink.json
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/obj/Debug/net8.0/Exercise3.dll
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/obj/Debug/net8.0/refint/Exercise3.dll
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/obj/Debug/net8.0/Exercise3.pdb
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/obj/Debug/net8.0/Exercise3.genruntimeconfig.cache
+/Users/gio/Documents/GitHub/CSE-210/week01/Exercise3/obj/Debug/net8.0/ref/Exercise3.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week05/Homework/Homework.csproj": {}
+    "/Users/gio/Documents/GitHub/CSE-210/week05/Homework/Homework.csproj": {}
   },
   "projects": {
-    "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week05/Homework/Homework.csproj": {
+    "/Users/gio/Documents/GitHub/CSE-210/week05/Homework/Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week05/Homework/Homework.csproj",
+        "projectUniqueName": "/Users/gio/Documents/GitHub/CSE-210/week05/Homework/Homework.csproj",
         "projectName": "Homework",
-        "projectPath": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week05/Homework/Homework.csproj",
+        "projectPath": "/Users/gio/Documents/GitHub/CSE-210/week05/Homework/Homework.csproj",
         "packagesPath": "/Users/gio/.nuget/packages/",
-        "outputPath": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week05/Homework/obj/",
+        "outputPath": "/Users/gio/Documents/GitHub/CSE-210/week05/Homework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gio/.nuget/NuGet/NuGet.Config"

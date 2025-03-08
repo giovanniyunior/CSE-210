@@ -1,0 +1,15 @@
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/bin/Debug/net8.0/OnlineOrdering
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/bin/Debug/net8.0/OnlineOrdering.deps.json
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/bin/Debug/net8.0/OnlineOrdering.runtimeconfig.json
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/bin/Debug/net8.0/OnlineOrdering.dll
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/bin/Debug/net8.0/OnlineOrdering.pdb
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.AssemblyInfoInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.AssemblyInfo.cs
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.csproj.CoreCompileInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.sourcelink.json
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.dll
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/obj/Debug/net8.0/refint/OnlineOrdering.dll
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.pdb
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.genruntimeconfig.cache
+/Users/gio/Documents/GitHub/CSE-210/week04/OnlineOrdering/obj/Debug/net8.0/ref/OnlineOrdering.dll

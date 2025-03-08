@@ -1,0 +1,15 @@
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/bin/Debug/net8.0/EternalQuest
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/bin/Debug/net8.0/EternalQuest.deps.json
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/bin/Debug/net8.0/EternalQuest.runtimeconfig.json
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/bin/Debug/net8.0/EternalQuest.dll
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/bin/Debug/net8.0/EternalQuest.pdb
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.AssemblyInfoInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.AssemblyInfo.cs
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.csproj.CoreCompileInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.sourcelink.json
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.dll
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/obj/Debug/net8.0/refint/EternalQuest.dll
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.pdb
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.genruntimeconfig.cache
+/Users/gio/Documents/GitHub/CSE-210/week06/EternalQuest/obj/Debug/net8.0/ref/EternalQuest.dll

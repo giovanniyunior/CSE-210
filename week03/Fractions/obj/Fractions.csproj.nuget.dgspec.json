@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week03/Fractions/Fractions.csproj": {}
+    "/Users/gio/Documents/GitHub/CSE-210/week03/Fractions/Fractions.csproj": {}
   },
   "projects": {
-    "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week03/Fractions/Fractions.csproj": {
+    "/Users/gio/Documents/GitHub/CSE-210/week03/Fractions/Fractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week03/Fractions/Fractions.csproj",
+        "projectUniqueName": "/Users/gio/Documents/GitHub/CSE-210/week03/Fractions/Fractions.csproj",
         "projectName": "Fractions",
-        "projectPath": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week03/Fractions/Fractions.csproj",
+        "projectPath": "/Users/gio/Documents/GitHub/CSE-210/week03/Fractions/Fractions.csproj",
         "packagesPath": "/Users/gio/.nuget/packages/",
-        "outputPath": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week03/Fractions/obj/",
+        "outputPath": "/Users/gio/Documents/GitHub/CSE-210/week03/Fractions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gio/.nuget/NuGet/NuGet.Config"

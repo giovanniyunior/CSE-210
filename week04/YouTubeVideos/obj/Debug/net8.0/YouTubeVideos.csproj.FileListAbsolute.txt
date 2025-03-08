@@ -1,0 +1,15 @@
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/bin/Debug/net8.0/YouTubeVideos
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/bin/Debug/net8.0/YouTubeVideos.deps.json
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/bin/Debug/net8.0/YouTubeVideos.runtimeconfig.json
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/bin/Debug/net8.0/YouTubeVideos.dll
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/bin/Debug/net8.0/YouTubeVideos.pdb
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/obj/Debug/net8.0/YouTubeVideos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/obj/Debug/net8.0/YouTubeVideos.AssemblyInfoInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/obj/Debug/net8.0/YouTubeVideos.AssemblyInfo.cs
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/obj/Debug/net8.0/YouTubeVideos.csproj.CoreCompileInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/obj/Debug/net8.0/YouTubeVideos.sourcelink.json
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/obj/Debug/net8.0/YouTubeVideos.dll
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/obj/Debug/net8.0/refint/YouTubeVideos.dll
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/obj/Debug/net8.0/YouTubeVideos.pdb
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/obj/Debug/net8.0/YouTubeVideos.genruntimeconfig.cache
+/Users/gio/Documents/GitHub/CSE-210/week04/YouTubeVideos/obj/Debug/net8.0/ref/YouTubeVideos.dll

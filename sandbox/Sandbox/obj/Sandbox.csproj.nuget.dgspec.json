@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/sandbox/Sandbox/Sandbox.csproj": {}
+    "/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/Sandbox.csproj": {}
   },
   "projects": {
-    "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/sandbox/Sandbox/Sandbox.csproj": {
+    "/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/Sandbox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/sandbox/Sandbox/Sandbox.csproj",
+        "projectUniqueName": "/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/Sandbox.csproj",
         "projectName": "Sandbox",
-        "projectPath": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/sandbox/Sandbox/Sandbox.csproj",
+        "projectPath": "/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/Sandbox.csproj",
         "packagesPath": "/Users/gio/.nuget/packages/",
-        "outputPath": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/sandbox/Sandbox/obj/",
+        "outputPath": "/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gio/.nuget/NuGet/NuGet.Config"

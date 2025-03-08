@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week01/Exercise5/Exercise5.csproj": {}
+    "/Users/gio/Documents/GitHub/CSE-210/week01/Exercise5/Exercise5.csproj": {}
   },
   "projects": {
-    "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week01/Exercise5/Exercise5.csproj": {
+    "/Users/gio/Documents/GitHub/CSE-210/week01/Exercise5/Exercise5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week01/Exercise5/Exercise5.csproj",
+        "projectUniqueName": "/Users/gio/Documents/GitHub/CSE-210/week01/Exercise5/Exercise5.csproj",
         "projectName": "Exercise5",
-        "projectPath": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week01/Exercise5/Exercise5.csproj",
+        "projectPath": "/Users/gio/Documents/GitHub/CSE-210/week01/Exercise5/Exercise5.csproj",
         "packagesPath": "/Users/gio/.nuget/packages/",
-        "outputPath": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week01/Exercise5/obj/",
+        "outputPath": "/Users/gio/Documents/GitHub/CSE-210/week01/Exercise5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gio/.nuget/NuGet/NuGet.Config"

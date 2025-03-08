@@ -1,0 +1,15 @@
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/bin/Debug/net8.0/ScriptureMemorizer
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/bin/Debug/net8.0/ScriptureMemorizer.deps.json
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/bin/Debug/net8.0/ScriptureMemorizer.runtimeconfig.json
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/bin/Debug/net8.0/ScriptureMemorizer.dll
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/bin/Debug/net8.0/ScriptureMemorizer.pdb
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.AssemblyInfoInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.AssemblyInfo.cs
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.csproj.CoreCompileInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.sourcelink.json
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.dll
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/obj/Debug/net8.0/refint/ScriptureMemorizer.dll
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.pdb
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.genruntimeconfig.cache
+/Users/gio/Documents/GitHub/CSE-210/week03/ScriptureMemorizer/obj/Debug/net8.0/ref/ScriptureMemorizer.dll

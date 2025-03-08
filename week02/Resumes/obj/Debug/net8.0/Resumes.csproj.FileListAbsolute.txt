@@ -1,0 +1,15 @@
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/bin/Debug/net8.0/Resumes
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/bin/Debug/net8.0/Resumes.deps.json
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/bin/Debug/net8.0/Resumes.runtimeconfig.json
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/bin/Debug/net8.0/Resumes.dll
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/bin/Debug/net8.0/Resumes.pdb
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/obj/Debug/net8.0/Resumes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/obj/Debug/net8.0/Resumes.AssemblyInfoInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/obj/Debug/net8.0/Resumes.AssemblyInfo.cs
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/obj/Debug/net8.0/Resumes.csproj.CoreCompileInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/obj/Debug/net8.0/Resumes.sourcelink.json
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/obj/Debug/net8.0/Resumes.dll
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/obj/Debug/net8.0/refint/Resumes.dll
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/obj/Debug/net8.0/Resumes.pdb
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/obj/Debug/net8.0/Resumes.genruntimeconfig.cache
+/Users/gio/Documents/GitHub/CSE-210/week02/Resumes/obj/Debug/net8.0/ref/Resumes.dll

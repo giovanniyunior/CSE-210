@@ -13,3 +13,18 @@
 /Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/sandbox/Sandbox/obj/Debug/net8.0/Sandbox.pdb
 /Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/sandbox/Sandbox/obj/Debug/net8.0/Sandbox.genruntimeconfig.cache
 /Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/sandbox/Sandbox/obj/Debug/net8.0/ref/Sandbox.dll
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/bin/Debug/net8.0/Sandbox
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/bin/Debug/net8.0/Sandbox.deps.json
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/bin/Debug/net8.0/Sandbox.runtimeconfig.json
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/bin/Debug/net8.0/Sandbox.dll
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/bin/Debug/net8.0/Sandbox.pdb
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/obj/Debug/net8.0/Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/obj/Debug/net8.0/Sandbox.AssemblyInfoInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/obj/Debug/net8.0/Sandbox.AssemblyInfo.cs
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/obj/Debug/net8.0/Sandbox.csproj.CoreCompileInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/obj/Debug/net8.0/Sandbox.sourcelink.json
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/obj/Debug/net8.0/Sandbox.dll
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/obj/Debug/net8.0/refint/Sandbox.dll
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/obj/Debug/net8.0/Sandbox.pdb
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/obj/Debug/net8.0/Sandbox.genruntimeconfig.cache
+/Users/gio/Documents/GitHub/CSE-210/sandbox/Sandbox/obj/Debug/net8.0/ref/Sandbox.dll

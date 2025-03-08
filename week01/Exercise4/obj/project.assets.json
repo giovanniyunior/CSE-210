@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week01/Exercise4/Exercise4.csproj",
+      "projectUniqueName": "/Users/gio/Documents/GitHub/CSE-210/week01/Exercise4/Exercise4.csproj",
       "projectName": "Exercise4",
-      "projectPath": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week01/Exercise4/Exercise4.csproj",
+      "projectPath": "/Users/gio/Documents/GitHub/CSE-210/week01/Exercise4/Exercise4.csproj",
       "packagesPath": "/Users/gio/.nuget/packages/",
-      "outputPath": "/Users/gio/Documents/GitHub/CSE 210/cse210-ww-student-template/week01/Exercise4/obj/",
+      "outputPath": "/Users/gio/Documents/GitHub/CSE-210/week01/Exercise4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gio/.nuget/NuGet/NuGet.Config"

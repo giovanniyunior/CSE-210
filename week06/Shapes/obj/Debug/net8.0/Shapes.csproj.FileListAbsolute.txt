@@ -1,0 +1,15 @@
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/bin/Debug/net8.0/Shapes
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/bin/Debug/net8.0/Shapes.deps.json
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/bin/Debug/net8.0/Shapes.runtimeconfig.json
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/bin/Debug/net8.0/Shapes.dll
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/bin/Debug/net8.0/Shapes.pdb
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/obj/Debug/net8.0/Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/obj/Debug/net8.0/Shapes.AssemblyInfoInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/obj/Debug/net8.0/Shapes.AssemblyInfo.cs
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/obj/Debug/net8.0/Shapes.csproj.CoreCompileInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/obj/Debug/net8.0/Shapes.sourcelink.json
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/obj/Debug/net8.0/Shapes.dll
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/obj/Debug/net8.0/refint/Shapes.dll
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/obj/Debug/net8.0/Shapes.pdb
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/obj/Debug/net8.0/Shapes.genruntimeconfig.cache
+/Users/gio/Documents/GitHub/CSE-210/week06/Shapes/obj/Debug/net8.0/ref/Shapes.dll
