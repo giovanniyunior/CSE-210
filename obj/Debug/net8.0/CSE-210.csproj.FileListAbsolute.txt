@@ -1,0 +1,5 @@
+/Users/gio/Documents/GitHub/CSE-210/obj/Debug/net8.0/CSE-210.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Documents/GitHub/CSE-210/obj/Debug/net8.0/CSE-210.AssemblyInfoInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/obj/Debug/net8.0/CSE-210.AssemblyInfo.cs
+/Users/gio/Documents/GitHub/CSE-210/obj/Debug/net8.0/CSE-210.csproj.CoreCompileInputs.cache
+/Users/gio/Documents/GitHub/CSE-210/obj/Debug/net8.0/CSE-210.sourcelink.json
