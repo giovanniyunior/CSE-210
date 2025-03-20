@@ -1,0 +1,15 @@
+Explain the meaning of Abstraction.
+Highlight a benefit of Abstraction.
+Provide an application of Abstraction.
+Use a code example of Abstraction from the program you wrote. (You should copy and paste a few lines of code that demonstrate the use of the principle.)
+
+Abstraction is a way to difine an achitecture in our code that ocganize and make the code more scalable,
+With Abstraction we can create different classes and separate the logic of a program, that help us to optimize the code and to handle eventual changes
+In this week activity we write aproram abour a resume, and we create a class called Job, and this class had a method called display(), this method help me to reduce the code and I could show the information of any Job from my main method.
+
+Job jobItem2 = new Job();
+jobItem2._company = "Globant";
+jobItem2._jobTitle = "Salesforce Developer";
+jobItem2._startYear = 2025;
+jobItem2._endYear = 2026;
+jobItem2.display();
