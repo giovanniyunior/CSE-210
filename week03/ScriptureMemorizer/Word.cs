@@ -14,9 +14,10 @@ class Word
 		_text = new string('_', _text.Length);
 
 	}
-	public void show()
+	public void Show()
 	{
 		_isHidden = false;
+		_text = _maskedWord;
 	}
 	public bool isHidden()
 	{

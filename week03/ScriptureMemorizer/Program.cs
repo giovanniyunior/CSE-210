@@ -17,8 +17,17 @@ class Program
 			if(userText == "quit"){
 				exit = true;
 			}
-			scripture.hideRandomWords(5);
-			Console.Write("Press enter  to continue or type 'quit' to finish");
+			if(userText == "show"){
+				scripture.ShowRandomWords(2);
+				Console.WriteLine("Press enter  to continue or type 'quit' to finish \n");
+				Console.WriteLine("Type show to restore hidded words\n");
+			}else{
+				scripture.hideRandomWords(2);
+				Console.WriteLine("Press enter  to continue or type 'quit' to finish \n");
+				Console.WriteLine("Type show to restore hidded words\n");
+			}
+			
+
 			if(scripture.IsCompletelyHidden())
 			{
 				exit = true;

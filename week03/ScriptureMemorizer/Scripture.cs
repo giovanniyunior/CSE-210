@@ -25,6 +25,23 @@ class Scripture
 		Console.Write(getDisplayText()+"\n");
 		
 	}
+	public void ShowRandomWords(int numberToHide)
+	{
+		int wordsHidden = 0;
+		while(wordsHidden <  numberToHide)
+		{
+			Random randomGenerator = new Random();
+			int number = randomGenerator.Next(0, _words.Count);
+			if(_words[number].isHidden()){
+				_words[number].Show();
+				wordsHidden ++;
+			}
+			
+		}
+		Console.Clear();
+		Console.Write(getDisplayText()+"\n");
+		
+	}
 	public string getDisplayText()
 	{
         return _reference.getDisplayText() +" "+ string.Join(" ", _words.Select(w => w.getDisplayText()));
