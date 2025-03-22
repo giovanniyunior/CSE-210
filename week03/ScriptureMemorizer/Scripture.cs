@@ -5,18 +5,27 @@ class Scripture
 
 	public Scripture(Reference reference, string text)
 	{
-
+		_reference = reference;
+		_words.Add() = text.Split(' ');
 	}
 	private void hideRandomWords(int numberToHide)
 	{
-
+		_words[numberToHide].hide();
 	}
-	private string getDisplayText()
+	public string getDisplayText()
 	{
 		return "";
 	}
 	private bool isCompletelyHidden()
 	{
-		return false;
+		bool allHidden = true;
+		foreach (Word item in _words)
+		{
+			if(item.isHidden === false){
+				allHidden = false;
+			}
+		}
+
+		return allHidden;
 	}
 }

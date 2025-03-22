@@ -2,17 +2,21 @@ class Word
 {
 	private string _text;
 	private bool _isHidden;
-	private void hide()
+	private string _maskedWord;
+	public void hide()
 	{
+		_isHidden = true;
+		_maskedWord = new string('_', _text.Length);
+
 
 	}
-	private void show()
+	public void show()
 	{
-
+		_isHidden = false;
 	}
-	private bool isHidden()
+	public bool isHidden()
 	{
-		return false;
+		return _isHidden;
 	}
 	private string getDisplayText()
 	{
