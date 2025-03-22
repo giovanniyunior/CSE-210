@@ -20,6 +20,7 @@ class Reference
 	}
 	public string getDisplayText()
 	{
-		return _book+" "+_chapter+": "+_verse+"-"+_endVerse;
+		string verses = _endVerse == 0? _verse.ToString() : _verse+"-"+_endVerse;
+		return _book+" "+_chapter+": "+verses;
 	}
 }

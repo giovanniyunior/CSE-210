@@ -3,11 +3,15 @@ class Word
 	private string _text;
 	private bool _isHidden;
 	private string _maskedWord;
-	public void hide()
+	public Word(string text)
+	{
+		_text = text;
+	}
+	public void Hide()
 	{
 		_isHidden = true;
-		_maskedWord = new string('_', _text.Length);
-
+		_maskedWord = _text;
+		_text = new string('_', _text.Length);
 
 	}
 	public void show()
@@ -18,8 +22,9 @@ class Word
 	{
 		return _isHidden;
 	}
-	private string getDisplayText()
+	public string getDisplayText()
 	{
-		return "";
+		return _text;
+
 	}
 }

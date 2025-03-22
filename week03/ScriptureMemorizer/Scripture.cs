@@ -6,26 +6,32 @@ class Scripture
 	public Scripture(Reference reference, string text)
 	{
 		_reference = reference;
-		_words.Add() = text.Split(' ');
+        _words = text.Split(' ').Select(word => new Word(word)).ToList();
 	}
-	private void hideRandomWords(int numberToHide)
+	public void hideRandomWords(int numberToHide)
 	{
-		_words[numberToHide].hide();
+		int wordsHidden = 0;
+		while(wordsHidden <  numberToHide)
+		{
+			Random randomGenerator = new Random();
+			int number = randomGenerator.Next(0, _words.Count);
+			if(!_words[number].isHidden()){
+				_words[number].Hide();
+				wordsHidden ++;
+			}
+			
+		}
+		Console.Clear();
+		Console.Write(getDisplayText()+"\n");
+		
 	}
 	public string getDisplayText()
 	{
-		return "";
+        return _reference.getDisplayText() +" "+ string.Join(" ", _words.Select(w => w.getDisplayText()));
 	}
-	private bool isCompletelyHidden()
+	public bool IsCompletelyHidden()
 	{
-		bool allHidden = true;
-		foreach (Word item in _words)
-		{
-			if(item.isHidden === false){
-				allHidden = false;
-			}
-		}
+		return _words.All(w => w.isHidden());
 
-		return allHidden;
 	}
 }
