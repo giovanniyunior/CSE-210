@@ -1,0 +1,11 @@
+Explain the meaning of Encapsulation.
+Highlight a benefit of Encapsulation.
+Provide an application of Encapsulation.
+Use a code example of Encapsulation from the program you wrote. (You should copy and paste a few lines of code that demonstrate the use of the principle.)
+Thoroughly explain these concepts. (This likely cannot be done in less than 100 words.)
+
+Encapsulation is separate the resposabilities of the class in different functions and handle what functions or variables should be public or for internal use (private).
+With Encapsulationse can eccess to the class functionalities in a more organized way and secure, becouse all functions are not expose to other clases.
+
+sometimes we want to hide funtionalities in our code, for example if we need to restructure data, we can do this in a private method because is no neede for other class to use that code. 
+In my code I create a private method called CreateScripture, and i make it private because is spesific to instance the scripture class and add some values, this should only neede in my programm class so do not neet to be public.
