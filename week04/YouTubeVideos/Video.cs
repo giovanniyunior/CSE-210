@@ -5,22 +5,26 @@ class Video
 	private double _length;
 	private List<Comment> _comments = new List<Comment>();
 
-	private Video(string title, string author, double length)
+	public Video(string title, string author, double length)
 	{
 		this._author = author;
 		this._length = length;
 		this._title = title;
 	}
-	private void AddComment()
+	public void AddComment(Comment c)
 	{
-
+		_comments.Add(c);
 	}
-	private void GetNumberOfComments()
+	public int GetNumberOfComments()
 	{
-
+		return _comments.Count();
 	}
-	private void Display()
+	public void Display()
 	{
-		
+		Console.WriteLine($"{_title}\nCreated By: {_author} Duration: {_length}\n");
+		foreach (Comment c in _comments)
+		{
+			c.Display();
+		}
 	}
 }
