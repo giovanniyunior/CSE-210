@@ -2,12 +2,24 @@ class Product
 {
 	private string _name;
 	private string _productId;
-	private string _price;
-	private string _quantity;
+	private double _price;
+	private int _quantity;
 
-	private void CalculateTotalCost()
+	public Product(string name, string productId, double price, int quantity)
 	{
-		
+		_name = name;
+		_productId = productId;
+		_price = price;
+		_quantity = quantity;
 	}
+	public double CalculateTotalCost()
+	{
+		return _price * _quantity;
+	}
+	public string GeneratePackingLabel()
+	{
+		return _name +" "+_productId;
+	}
+	
 
 }
