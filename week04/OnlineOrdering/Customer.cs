@@ -13,6 +13,6 @@ class Customer
 	}
 	public string GenerateShippingLabel()
 	{
-		return _name +" "+_address.GetAddress();
+		return _name + " " + _address.GetAddress();
 	}
 }

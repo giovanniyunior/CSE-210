@@ -18,8 +18,8 @@ class Product
 	}
 	public string GeneratePackingLabel()
 	{
-		return _name +" "+_productId;
+		return _name + " " + _productId;
 	}
-	
+
 
 }

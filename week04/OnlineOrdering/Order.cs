@@ -22,7 +22,7 @@ class Order
 	}
 	public double CalculateTotalPrice()
 	{
-		int shippingCost = _customer.IsInUSA()? 5 : 35;
+		int shippingCost = _customer.IsInUSA() ? 5 : 35;
 		return CalculateTotalCost() + shippingCost;
 	}
 	public void GetPackagingLabel()

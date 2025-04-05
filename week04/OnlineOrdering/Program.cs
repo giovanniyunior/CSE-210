@@ -4,6 +4,27 @@ class Program
 {
 	static void Main(string[] args)
 	{
+		List<Order> orders = CreateOrders();
+		DisplayOrderInformation(orders);
+	}
+
+	private static void DisplayOrderInformation(List<Order> orders)
+	{
+		foreach (Order orderItem in orders)
+		{
+			Console.WriteLine("Package Label");
+			orderItem.GetPackagingLabel();
+			Console.WriteLine("\nCost and Price Imformation");
+			Console.WriteLine($"Total Cost: {orderItem.CalculateTotalCost()}");
+			Console.WriteLine($"Total Price: {orderItem.CalculateTotalPrice()}");
+			Console.WriteLine("\nShipping Information");
+			orderItem.GetShippingLabel();
+			Console.WriteLine("\n");
+		}
+	}
+
+	private static List<Order> CreateOrders()
+	{
 		Address add1 = new Address("123 Main St", "Phoenix", "AZ", "United States");
 		Address add2 = new Address("456 Maple Ave", "Toronto", "ON", "Canada");
 
@@ -21,18 +42,6 @@ class Program
 		List<Order> orders = new List<Order>();
 		orders.Add(order1);
 		orders.Add(order2);
-		foreach (Order orderItem in orders)
-		{
-			Console.WriteLine("Package Label");
-			orderItem.GetPackagingLabel();
-			Console.WriteLine("\nCost and Price Imformation");
-			Console.WriteLine($"Total Cost: {orderItem.CalculateTotalCost()}");
-			Console.WriteLine($"Total Price: {orderItem.CalculateTotalPrice()}");
-			Console.WriteLine("\nShipping Information");
-			orderItem.GetShippingLabel();
-			Console.WriteLine("\n");
-		}
-
+		return orders;
 	}
-
 }
