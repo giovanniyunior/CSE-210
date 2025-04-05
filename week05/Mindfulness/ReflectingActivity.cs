@@ -66,23 +66,23 @@ public class ReflectingActivity : Activity
 		_questions.Add("How can you keep this experience in mind in the future?");
 	}
 
-	public string GetRandomPrompt()
+	private string GetRandomPrompt()
 	{
 		Random randomGenerator = new Random();
 		int number = randomGenerator.Next(0, _promps.Count);
 		return _promps[number];
 	}
-	public string GetRandomQuestion()
+	private string GetRandomQuestion()
 	{
 		Random randomGenerator = new Random();
 		int number = randomGenerator.Next(0, _questions.Count);
 		return _questions[number];
 	}
-	public void DisplayPrompt()
+	private void DisplayPrompt()
 	{
 		Console.WriteLine($"--- {GetRandomPrompt()} --- \n");
 	}
-	public void DisplayQuestions()
+	private void DisplayQuestions()
 	{
 		Console.WriteLine($"{GetRandomQuestion()}\n");
 
