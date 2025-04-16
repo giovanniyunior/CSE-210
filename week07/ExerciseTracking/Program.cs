@@ -4,6 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the ExerciseTracking Project.");
-    }
+        Console.Clear();
+		List<Activity> activities = new List<Activity>();
+		activities.Add(new Swimming(30, 50));
+		activities.Add(new Cycling(30, 100));
+		activities.Add(new Running(30, 30));
+		foreach (var activity in activities)
+        {
+            Console.WriteLine(activity.GetSummary());
+        }
+	}
 }
