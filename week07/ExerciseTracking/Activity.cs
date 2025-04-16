@@ -2,12 +2,12 @@ using System.IO.Pipes;
 
 abstract class Activity
 {
-	public decimal _distance;
-	public decimal _speed;
-	public decimal _pace;
-	private DateTime _date;
-	public string _activityName;
-	public int _duration;
+	protected decimal _distance;
+	protected decimal _speed;
+	protected decimal _pace;
+	protected DateTime _date;
+	protected string _activityName;
+	protected int _duration;
 
 	protected Activity(int duration)
 	{
