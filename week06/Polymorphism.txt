@@ -1,0 +1,10 @@
+Polymorphism means many forms. In C #, we can create a class that can be the base of many classes according to the "Is A" principle.
+
+For example, we create a class called Goal, we can have many types of Goals, like Eternal Goal, Checklist Goal, and Simple Goal
+	We can create a list of Goal class, and we can add to this list different classes that can contain different logic, but have the same structure as the base class
+	private List<Goal> _goals = new List<Goal>();
+	_goals.Add(new ChecklistGoal(goalName,goalDesc,goalPoints, target, bonus));
+	_goals.Add(new EternalGoal(goalName,goalDesc,goalPoints));
+	_goals.Add(new SimpleGoal(goalName,goalDesc,goalPoints));
+
+The advantages of these are that we have scalable code that can grow without issues. In the future, we can add more kinds of goals, and I can add these new classes to the same list of Goals.

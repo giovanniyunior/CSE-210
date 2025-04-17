@@ -1,0 +1,66 @@
+Abstraction  
+Abstraction is a way to manage code by hiding or exposing implementation details to other classes.  
+Example:
+
+static void Main(string[] args)  
+{  
+    Console.Clear();  
+    List<Activity> activities = new List<Activity>();  
+    activities.Add(new Swimming(30, 50));  
+    activities.Add(new Cycling(30, 100));  
+    activities.Add(new Running(30, 30));  
+    Display(activities);  
+}
+
+private static void Display(List<Activity> activities)  
+{  
+    foreach (var activity in activities)  
+    {  
+        Console.WriteLine(activity.GetSummary());  
+    }  
+}
+
+
+Encapsulation  
+Encapsulation is to separate the responsibilities of the class  
+into different functions and handle what functions or variables should  
+be public or for internal use (private).  
+Example:
+
+static void Main(string[] args)  
+{  
+    Console.Clear();  
+    List<Activity> activities = new List<Activity>();  
+    activities.Add(new Swimming(30, 50));  
+    activities.Add(new Cycling(30, 100));  
+    activities.Add(new Running(30, 30));  
+    Display(activities);  
+}
+
+public static void Display(List<Activity> activities)  
+{  
+    foreach (var activity in activities)  
+    {  
+        Console.WriteLine(activity.GetSummary());  
+    }  
+}
+
+
+Inheritance  
+A class can have a child class that inherits methods and variables from the parent.  
+Example:
+
+class Running : Activity  
+{  
+
+}
+
+
+Polymorphism  
+Means many forms. We can build a base class and have many children that can inherit a method’s structure from the base class.  
+Example:
+
+List<Activity> activities = new List<Activity>();  
+activities.Add(new Swimming(30, 50));  
+activities.Add(new Cycling(30, 100));  
+activities.Add(new Running(30, 30));
